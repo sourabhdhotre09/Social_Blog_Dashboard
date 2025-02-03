@@ -36,24 +36,6 @@ A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tai
 
 You can view the live demo of the application here:
 
-[Social Media Dashboard - Live Demo](https://Blog Page Dashboard-73cp.vercel.app/)
+[Social Media Dashboard - Live Demo]
 
 ---
-
-## Project Setup
-
-### Prerequisites
-
-To run the project locally, make sure you have the following installed on your machine:
-
-- **Node.js** (v14 or later)
-- **npm** (Node Package Manager)
-
-### Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ayadav44237/Social_Media_Dashboard.git
-   cd Social_Media_Dashboard
-# Social_Blog_Dashboard
