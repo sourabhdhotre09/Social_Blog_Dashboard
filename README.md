@@ -37,5 +37,5 @@ A Social Media Post Management Dashboard built with React.js, Redux Toolkit, Tai
 You can view the live demo of the application here:
 
 [Social Media Dashboard - Live Demo]
-
+(https://sourabhdhotre09.github.io/Social_Blog_Dashboard/)
 ---
